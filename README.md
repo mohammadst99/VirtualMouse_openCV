@@ -1,7 +1,7 @@
 # VirtualMouse_openCV
 in this prj we have a mouse that we can control it by just moving our fingers and there are some gesture that you can use them to click 
 
-# libraries
+# Libraries
 
 import cv2 as cv
 
@@ -19,6 +19,10 @@ import math
 
 
 # Test Video
+if you use your Index Finger you can adjust and move the mouse
+
+if you want to click all you have to do is raising your middle finger and putting it next to your Index
+
 ![](https://github.com/mohammadst99/VirtualMouse_openCV/blob/main/test.gif)
 
 
